@@ -1,3 +1,12 @@
 primeira etapa: criar o penderiver do linus mint;
+dowload do linus mint https://linuxmint.com/edition.php?id=294
+dowload do rufus https://linuxmint.com/edition.php?id=294
+
 segunda etapa ..: bootar no notebook com o pendriver do linux mint;
-terceira etapa.; formatar e instalar o linux mint
+tecla de menu de inicializaçao: F8
+tecla de bios: Del
+
+terceira etapa.; formatar e instalar o linux mint..;
+sempre zerar o HD/SDD usando o programa GParted 
+link download https://gparted.org/download.php
+
