@@ -2,3 +2,6 @@ criandoarquivos no Github, utilizando a guia ADD Files.
 Apagando conteudo no Github.
 
 atualizando do Github para o repositorio local 
+
+finalizando o VSCODE 
+para o Github
